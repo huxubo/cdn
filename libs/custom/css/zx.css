@@ -66,6 +66,12 @@ body {
     height: calc(100vh - 369px);
 }
 
+#ubEnText {
+    resize: none;
+    height: 280px;
+    font-size: 16px;
+}
+
 .ub-textarea {
     height: calc(100vh - 505px);
 }
