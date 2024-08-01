@@ -98,3 +98,9 @@ body {
         padding-right: 0px;
     }
 }
+
+@media (max-width: 992px) {
+    .pr10 {
+        padding-right: 0px;
+    }
+}
