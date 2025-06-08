@@ -3,10 +3,3 @@
 | WeChat                                                                   | AliPay                                                                   |
 |----------------------------------------------------------------------|-----------------------------------------------------------------------|
 | ![WeChat](https://cdn.37o.cc/images/qrcode/c_wxpay.png) | ![AliPay](https://cdn.37o.cc/images/qrcode/c_alipay.png) |
-<style>
-.markdown-body table {
-    display: table;
-    width: auto;
-    margin: auto
-}
-</style>
